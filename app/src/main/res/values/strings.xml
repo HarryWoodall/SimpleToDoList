@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleToDoList</string>
+    <string name="title_hint">Title</string>
+    <string name="description_hint">Description</string>
+    <string name="date_ph">Date</string>
+    <string name="completed_checkbox">Completed</string>
+    <string name="completed_date">Target Date</string>
+    <string name="menu_add_button">New Item</string>
+    <string name="date_picker_title">Completion Date</string>
+</resources>
